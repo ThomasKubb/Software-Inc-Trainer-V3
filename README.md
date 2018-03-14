@@ -5,5 +5,5 @@ This Trainer is for Software Inc game. It's based on https://github.com/Trawis/S
 
 *NOTE: I can't guarantee that some features integrated in this trainer will work with old saves. If you want to test it out, please backup your data first.
 
-Download Trainer.dll and put in the DLLMods folder in your Software Inc directory. If the directory does not exist, create it.
+Download Trainer_V3.dll and put in the DLLMods folder in your Software Inc directory. If the directory does not exist, create it.
 
